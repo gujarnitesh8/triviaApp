@@ -1,0 +1,30 @@
+[
+    {
+        "questionId": 1,
+        "title": "What is your name?",
+        "questionType": "TextInput",
+        "options": []
+    },
+    {
+        "questionId": 2,
+        "title": "Who is the best cricketer in the world?",
+        "questionType": "Radio",
+        "options": [
+            "Sachin Tendulkar",
+            "Virat Kohli",
+            "Adan Gilchrist",
+            "Jacques Kalis"
+        ]
+    },
+    {
+        "questionId": 3,
+        "title": "What are the colors in the Indian national flag? ",
+        "questionType": "Checkbox",
+        "options": [
+            "White",
+            "Yellow",
+            "Orange",
+            "Green"
+        ]
+    }
+]
